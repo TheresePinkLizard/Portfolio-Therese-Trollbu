@@ -1,3 +1,64 @@
 #wrapper {
-    margin-left: 50px;
+    width: 1000px;
+    margin: auto;
+}
+
+#header{
+    background-color: pink;
+    height: 200px;
+}
+.headerText{
+    padding-top: 75px;
+    padding-left: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.ul2{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#oblig1{
+    width: 700px;
+    position: center;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.circle{
+    border-radius: 50%;
+    margin-top: 50px;
+}
+
+.circleStyle {
+    width: 200px;
+    height: 200px;
+    background: white;
+    border: 1px solid grey;
+}
+hr {
+    border: 2px solid black;
+}
+#circleText{
+    margin-top: 75px;
+    margin-left: 75px;
 }

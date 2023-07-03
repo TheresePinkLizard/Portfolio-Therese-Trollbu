@@ -11,6 +11,13 @@
     padding-top: 75px;
     padding-left: 20px;
 }
+
+#headerLeft{
+ float: left;
+}
+#headerRight{
+    float: right;
+}
 ul {
     list-style-type: none;
     margin: 0;

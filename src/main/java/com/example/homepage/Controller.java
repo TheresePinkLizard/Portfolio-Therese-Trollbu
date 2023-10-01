@@ -19,11 +19,13 @@ public class Controller {
       public void nyRadius(int radius){
         this.radius = radius;
     }
-
+/*
     @GetMapping("/hentResultat")
         public List<Kalkulering> hentRes(){
 
 
     }
+
+ */
 
 }
